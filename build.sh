@@ -1,1 +1,1 @@
-docker build -t jenkins/jenkins:lts .
+sudo docker build -t jenkins/jenkins:lts .
